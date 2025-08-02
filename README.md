@@ -1,2 +1,19 @@
-# Surfing.Waves
-Let's try surfing on the waves.
+# 🌐 // Language
+( None.... Sorry... )
+
+---
+
+# 🏄 // Surfing Waves
+파도 위에서 서핑을 타는거 처럼 유연하게 메모를 작성해보세요!  
+다양한 기능을 지원하고, 유저들이 만든 플러그인을 적용해서 멋지게 꾸며 보세요.
+
+| 💾 - 운영체제          | **✅ - 정식 버전** | **⚠️ - 개발 버전** | **📜 - 관련 문서** | **🔗 - 다운로드** | **_📢 - 공지_**                   |
+|-----------------------|-------------------|-------------------|-------------------|------------------|----------------------------------|
+| **Windows // 윈도우** | ( None )          | ( None )          | ( None )          | ( None )         | _( 현재 개발이 진행중 입니다! )_ |
+| **Mac // 맥**         | ( None )          | ( None )          | ( None )          | ( None )         |                                  |
+| **Linux - Debian**    | ( None )          | ( None )          | ( None )          | ( None )         |                                  |
+| **Linux - Fedora**    | ( None )          | ( None )          | ( None )          | ( None )         | _( 현재 개발이 진행중 입니다! )_ |
+| **Linux - Other**     | ( None )          | ( None )          | ( None )          | ( None )         |                                  |
+| **Python File**       | ( None )          | ( None )          | ( None )          | ( None )         | _( 현재 개발이 진행중 입니다! )_ |
+
+Made by WaterIn Studio
